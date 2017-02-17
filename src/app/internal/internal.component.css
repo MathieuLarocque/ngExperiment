@@ -1,0 +1,39 @@
+
+.container {
+    font-size: 2em;
+    margin-top: 0;
+    top: 0;
+   display: -webkit-flex;
+   display: flex;
+   -webkit-flex-direction: row;
+   flex-direction: row;
+   -webkit-align-items: center;
+   align-items: center;
+   -webkit-justify-content: center;
+   justify-content: center;
+    border: 1px solid green;
+}
+.space {
+ opacity: 0;
+}
+.sub {
+border: 1px solid blue;
+width: 80%;
+
+
+
+    }
+p {
+    line-height: 200%;
+   
+    }
+p.small {
+ position: absolute;
+    top: 1em;
+    width: 80%;
+}
+
+p.big {
+
+    top:0;
+}
